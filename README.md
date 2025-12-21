@@ -8,4 +8,7 @@ per adesso, queste sono le poche e vaghe idee sul progetto.
 * sarà svolto sia da sistemi windows che linux
 * sarà breve ( ho anche cose serie da fare... giocare a Dragon ball Z: Kakaroth per esempio...)
 * probabilmente si baserà su i classici HTML CSS JAVASCRIPT
+* sarà condiviso da 4 collaboratori me (admin) incluso
+
+### 21/12/25 - 10:13 - Protezione del Branch "Main"
 
