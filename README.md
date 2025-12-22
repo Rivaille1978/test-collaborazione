@@ -10,5 +10,5 @@ per adesso, queste sono le poche e vaghe idee sul progetto.
 * probabilmente si baserà su i classici HTML CSS JAVASCRIPT
 * sarà condiviso da 4 collaboratori me (admin) incluso
 
-### 21/12/25 - 10:13 - Protezione del Branch "Main"
-
+ 21/12/25 - 10:13 - Protezione del Branch "Main"
+ 22/12/25 - 18:15 - Test git stash
