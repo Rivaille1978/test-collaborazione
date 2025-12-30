@@ -13,4 +13,4 @@ per adesso, queste sono le poche e vaghe idee sul progetto.
  21/12/25 - 10:13 - Protezione del Branch "Main"
  22/12/25 - 18:15 - Test git stash
  29/12/25 - 17:30 - gestione del merge dei branch senza conflitti (github attribuisce i push degli altri come miei perchè ho le credenziali con la chiave ssh)
- 
+ 30/12/25 - 17:00 - Creo una coppia di chiavi ssh per ogni collaboratore e rendo remote le loro cartelle sul mio pc
